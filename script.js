@@ -127,7 +127,7 @@ copy.addEventListener("click", function () {
   copyPassword();
 });
 
-// Found this demonstrated in a youtube video:  https://youtu.be/9sT03jEwcaw
+// Found this demonstrated in a youtube video: https://youtu.be/9sT03jEwcaw
 function copyPassword() {
   document.getElementById("password").select();
   document.execCommand("Copy");
