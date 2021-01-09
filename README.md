@@ -10,7 +10,7 @@ Once you answer all the questions the application will generate your random pass
 ## Screen Shots ##
  ![](Photos/Photo.png)
  ![](Photos/Photo1.png)
- ![](Photos/Photo2.png)
- ![](Photos/Photo3.png)
+ ![](Photos/photo2.png)
+ ![](Photos/photo3.png)
 
 
