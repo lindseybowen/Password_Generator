@@ -8,9 +8,9 @@ Once you answer all the questions the application will generate your random pass
 * https://lindseybowen.github.io/Password_Generator/ 
 
 ## Screen Shots ##
-* ![](images/photo)
-* ![](images/photo1)
-* ![](images/photo2)
-* ![](images/photo3)
+* ![](photos/photo)
+* ![](photos/photo1)
+* ![](photos/photo2)
+* ![](photos/photo3)
 
 
